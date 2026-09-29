@@ -1,0 +1,2 @@
+"use client";import {useState} from "react";import {Copy,Check} from "lucide-react";
+export default function CopyButton({text}:{text:string}){const [msg,setMsg]=useState("");return <div className="copy-control"><button type="button" aria-label="Számlaadat másolása" onClick={async()=>{try{await navigator.clipboard.writeText(text);setMsg("Másolva")}catch{setMsg("A másolás nem sikerült. Jelöld ki és másold a szöveget.")}}}>{msg==="Másolva"?<Check size={16}/>:<Copy size={16}/>} Másolás</button><span aria-live="polite">{msg}</span></div>}

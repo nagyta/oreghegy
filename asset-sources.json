@@ -1,0 +1,69 @@
+[
+  {
+    "file": "logo-donably.png",
+    "role": "Existing project logo",
+    "dimensions": "1254 x 1254",
+    "source_page": "https://www.donably.com/szegedi-vizorzok",
+    "image_url": "https://www.donably.com/public/cms/profilephoto/8/4/0000003184.png?1790682237",
+    "attribution": "Szegedi Vízőrzők – Öreghegy Projekt",
+    "reuse": "User explicitly requested existing project logo; source is the project donation profile, cross-linked to exact Facebook page. No separate public license stated.",
+    "local_path": "/workspace/scratch/4d685fc2ef0a/project-assets/logo-donably.png",
+    "sha256": "6c20a7e83f01bf7f642eee96dc5110b49124c613d5816776e7a5dbd00142b94e"
+  },
+  {
+    "file": "cover-donably.png",
+    "role": "Wide real project landscape hero",
+    "dimensions": "960 x 320",
+    "source_page": "https://www.donably.com/szegedi-vizorzok",
+    "image_url": "https://www.donably.com/public/cms/headerphoto/8/4/0000003184.png?1790682237",
+    "attribution": "Szegedi Vízőrzők – Öreghegy Projekt",
+    "reuse": "Existing public cover on project own donation profile; no separate public reuse license stated.",
+    "local_path": "/workspace/scratch/4d685fc2ef0a/project-assets/cover-donably.png",
+    "sha256": "eb23ed32cbebbe7d700b68b21d6b64e2df5f1f9e0d399427d4672ca0eb9bb1c4"
+  },
+  {
+    "file": "siphon-greendex.webp",
+    "role": "Volunteer field team with KPE pipe",
+    "dimensions": "1024 x 768",
+    "source_page": "https://greendex.hu/szegedi-vizorzok/",
+    "image_url": "https://greendex.hu/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2026/07/730040017_1743147283768070_2172927278082635197_n-1024x768.jpg.webp",
+    "attribution": "Szegedi Vízőrzők",
+    "caption": "Márciusi szivornyaindítás használt KPE csövek egy része ment öntözőrendszerbe másik része szivornyává alakult",
+    "reuse": "Article explicitly credits Szegedi Vízőrzők. No open reuse license stated.",
+    "local_path": "/workspace/scratch/4d685fc2ef0a/project-assets/siphon-greendex.webp",
+    "sha256": "f938cf3f620446fc4f6c6cdcf6263a97595d9ab51a8aaa23299ba3b8b1242e4b"
+  },
+  {
+    "file": "field-greendex.webp",
+    "role": "Two volunteers starting siphon",
+    "dimensions": "1024 x 683",
+    "source_page": "https://greendex.hu/szegedi-vizorzok/",
+    "image_url": "https://greendex.hu/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2026/07/598219301_1941351576519706_8029553455271639509_n-masolata-masolata-1024x683.jpg.webp",
+    "attribution": "Szegedi Vízőrzők",
+    "reuse": "Article explicitly credits Szegedi Vízőrzők. No open reuse license stated.",
+    "local_path": "/workspace/scratch/4d685fc2ef0a/project-assets/field-greendex.webp",
+    "sha256": "06e0e6bfcc463cc2e99eb5d112835c24821809d9e357f760385229d3b18c2f20"
+  },
+  {
+    "file": "life-greendex.webp",
+    "role": "Water-filled grassland channel with aquatic life",
+    "dimensions": "1024 x 768",
+    "source_page": "https://greendex.hu/szegedi-vizorzok/",
+    "image_url": "https://greendex.hu/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2026/07/729876789_1807644513943813_1309080142577589095_n-1024x768.jpg.webp",
+    "attribution": "Szegedi Vízőrzők",
+    "caption": "Élet a vízben",
+    "reuse": "Article credits Ssegedi Vízőrzők (source typo). No open reuse license stated.",
+    "local_path": "/workspace/scratch/4d685fc2ef0a/project-assets/life-greendex.webp",
+    "sha256": "ac4428dfe01036e2fb89cac0d9eacbb71232164a1d54b4a716196e6bf8899a7c"
+  },
+  {
+    "file": "wetland-greendex.webp",
+    "role": "Low angle water scene with people; optional spare",
+    "dimensions": "710 x 400",
+    "source_page": "https://greendex.hu/szegedi-vizorzok/",
+    "image_url": "https://greendex.hu/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2026/07/728626786_1977037966287764_9069286540226885945_n-masolata-masolata-710x400.jpg.webp",
+    "reuse": "Article cover; attribution not individually verified. Prefer other assets above.",
+    "local_path": "/workspace/scratch/4d685fc2ef0a/project-assets/wetland-greendex.webp",
+    "sha256": "a72687fecb72f7e6cd4f8a45ed2fcdb0bc12bd0d9d7f7cf349fa87ee0cbfabf1"
+  }
+]

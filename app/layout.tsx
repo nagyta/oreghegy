@@ -1,0 +1,6 @@
+import type { Metadata } from "next";
+import "./globals.css";
+import Header from "./site-header";
+import { facebook } from "@/lib/content";
+export const metadata:Metadata={title:{default:"Szegedi Vízőrzők – Öreghegy Projekt",template:"%s | Szegedi Vízőrzők"},description:"Vizet a tájba, életet Öreghegyre. Ismerd meg a Szegedi Vízőrzők vízmegtartási és élőhely-helyreállítási mintaprojektjét.",icons:{icon:"/images/logo-donably.png"}};
+export default function RootLayout({children}:{children:React.ReactNode}){return <html lang="hu"><body><a className="skip" href="#tartalom">Ugrás a tartalomhoz</a><Header/><main id="tartalom">{children}</main><footer><div className="container footer-grid"><div><a className="footer-name" href="/">Szegedi Vízőrzők</a><p>Helyi összefogás. Élő alföldi táj.</p><small>Szeged · Kiskundorozsma · Öreghegy</small></div><div className="footer-links"><a href="/projekt">A projekt</a><a href="/rolunk">Rólunk</a><a href="/tamogatas">Támogatás</a><a href={facebook} target="_blank" rel="noreferrer">Facebook</a><a href="/szerkeszto">Szerkesztői belépés</a></div></div><div className="container footer-bottom">© {new Date().getFullYear()} Szegedi Vízőrzők – Öreghegy Projekt</div></footer></body></html>}

@@ -1,0 +1,1 @@
+export default function NotFound(){return <div className="container page-intro"><span className="eyebrow">404</span><h1>Ez az oldal nem található.</h1><a className="button" href="/">Vissza a főoldalra</a></div>}
